@@ -1,0 +1,12 @@
+Flask
+python-docx
+PyPDF2
+scikit-learn
+nltk
+joblib
+gunicorn
+pandas
+transformers
+docx
+spacy
+sentence_transformers
